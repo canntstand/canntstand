@@ -7,10 +7,10 @@
     <a href="mailto:roman.evg.inbox@gmail.com"><img src="https://img.shields.io/badge/Email-roman.evg.inbox%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
     <a href="https://t.me/my_devops_notes" target="_blank"><img src="https://img.shields.io/badge/Telegram-@my__devops__notes-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
     <a href="https://gitlab.com/canntstand" target="_blank"><img src="https://img.shields.io/badge/GitLab-@canntstand-orange?style=flat-square&logo=gitlab" alt="GitLab"></a>
+    <a href="https://habr.com/ru/users/ITsuperiorRF/" target="_blank"><img src="https://img.shields.io/badge/Habr-@ITsuperiorRF-799bb4?style=flat-square&logo=habr" alt="Habr"></a>
     <img src="https://img.shields.io/badge/Location-Russia-red?style=flat-square&logo=googlemaps" alt="Location">
   </p>
 </div>
-
 ---
 
 ## 🛠️ Areas of Expertise & Core Domains
