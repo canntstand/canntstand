@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Location-Russia-red?style=flat-square&logo=googlemaps" alt="Location">
   </p>
 </div>
+
 ---
 
 ## 🛠️ Areas of Expertise & Core Domains
