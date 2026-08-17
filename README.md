@@ -4,7 +4,7 @@
   <p>I design, automate, and secure modern IT infrastructure, specializing in hybrid cloud/on-premise environments and robust self-hosted ecosystems.</p>
 
   <p align="center">
-    <a href="mailto:roman.evg.inbox@gmail.com"><img src="https://img.shields.io/badge/Email-roman.evg.inbox%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
+    <a href="mailto:mail@romanfrolov.ru"><img src="https://img.shields.io/badge/Email-roman.evg.inbox%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
     <a href="https://t.me/my_devops_notes" target="_blank"><img src="https://img.shields.io/badge/Telegram-@my__devops__notes-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
     <a href="https://kwork.ru/user/frolov_roman" target="_blank"><img src="https://img.shields.io/badge/Kwork-Profile-00a859?style=flat-square&logo=kwork&logoColor=white" alt="Kwork"></a>
     <a href="https://gitlab.com/canntstand" target="_blank"><img src="https://img.shields.io/badge/GitLab-@canntstand-orange?style=flat-square&logo=gitlab" alt="GitLab"></a>
