@@ -52,5 +52,5 @@
 </div>
 
 <div align="center">
-  <sub>💼 Available for freelance projects, DevOps consulting, and infrastructure design.</sub>
+  <sub>💼 Open to DevOps / Infrastructure opportunities and freelance projects.</sub>
 </div>
