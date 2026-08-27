@@ -25,12 +25,24 @@
       <p>
         Я DevOps-инженер с бэкграундом в backend-разработке. Люблю глубоко разбираться в работе инфраструктуры. Довожу проекты от первого черновика до полной готовности в продакшене. Активно документирую свой опыт, исследую open-source решения и изучаю новые инструменты.
       </p>
+      <ul>
+        <li>Пишу технические статьи.</li>
+        <li>Веду телеграм-канал, посвященный моему обучению.</li>
+        <li>Для структурирования данных веду Obsidian-хранилище по системе Zettelkasten.</li>
+        <li>Всегда открыт к общению: готов поделиться опытом или помочь с вашей инфраструктурной задачей.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🇬🇧 About Me</h3>
       <p>
-        I'm a DevOps Engineer with a background in backend development. I enjoy diving deep into infrastructure internals. I take systems from first draft to full production readiness. I actively document my experiences, explore open-source solutions and learn new tools.
+        I'm a DevOps Engineer with a background in backend development. I enjoy diving deep into infrastructure internals. I take systems from first draft to full production readiness. I actively document my experiences, explore open-source solutions, and learn new tools.
       </p>
+      <ul>
+        <li>I write technical articles.</li>
+        <li>I maintain a Telegram channel focused on my learning journey.</li>
+        <li>To structure my knowledge, I keep an Obsidian vault based on the Zettelkasten method.</li>
+        <li>Always open to connect: ready to share knowledge or help you solve your infrastructure challenges.</li>
+      </ul>
     </td>
   </tr>
 </table>
