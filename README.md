@@ -4,7 +4,8 @@
 
   <p>
     <a href="mailto:mail@romanfrolov.ru"><img src="https://img.shields.io/badge/Email-mail%40romanfrolov.ru-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
-    <a href="https://t.me/canntstand" target="_blank"><img src="https://img.shields.io/badge/Telegram-@canntstand-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://t.me/my_tech_notes" target="_blank"><img src="https://img.shields.io/badge/TG_Channel-@my__tech__notes-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://t.me/canntstand" target="_blank"><img src="https://img.shields.io/badge/TG_Contact-@canntstand-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Direct"></a>
     <a href="https://kwork.ru/user/frolov_roman" target="_blank"><img src="https://img.shields.io/badge/Kwork-Profile-00a859?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork"></a>
     <a href="https://gitlab.com/canntstand" target="_blank"><img src="https://img.shields.io/badge/GitLab-@canntstand-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
     <a href="https://habr.com/ru/users/ITsuperiorRF/" target="_blank"><img src="https://img.shields.io/badge/Habr-Profile-65a3be?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"></a>
