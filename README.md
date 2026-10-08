@@ -48,9 +48,5 @@
 </table>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canntstand&theme=github_dark" width="100%" alt="Profile Summary" />
-</div>
-
-<div align="center">
   <sub>💼 Open to DevOps / Infrastructure opportunities and freelance projects.</sub>
 </div>
